@@ -1,10 +1,10 @@
 {
-  "id": "./",
-  "name": "TAP REC - ワンタップ録音",
-  "short_name": "TAP REC",
+  "id": "./?install=v2",
+  "name": "TAP REC 2 - ワンタップ録音",
+  "short_name": "TAP REC 2",
   "description": "画面全体をタップして録音と再生",
   "lang": "ja",
-  "start_url": "./",
+  "start_url": "./?install=v2",
   "scope": "./",
   "display": "standalone",
   "background_color": "#233453",
@@ -20,12 +20,6 @@
       "src": "./icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "./icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
       "purpose": "any"
     }
   ]
